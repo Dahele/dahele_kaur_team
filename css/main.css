@@ -1,0 +1,90 @@
+@charset "UTF-8";
+ /*css Document */
+
+.hidden
+{
+  display: none;
+}
+
+body
+{
+ font-family: 'Helvetica', Arial, sans-serif;
+ margin: 0 auto;
+}
+
+
+#mainContainer
+{
+  margin: 0 auto;
+  background-color: #FFFEBE;
+}
+
+h1 {
+  font-size: 44px;
+  font-family: sans-serif;
+  font-weight: bold;
+  color: #F21600;
+  margin-left: 33%;
+  text-shadow: 3px 2px pink;
+}
+
+#memberImg1 {
+  width: 400px;
+  height: 450px;
+  margin-left: 30%;
+  border: solid 2px #FF7B00;
+}
+
+.biography{
+  margin-top: 40px;
+  text-align: center;
+  width: 960px;
+  margin-left: 100px;
+  background-color: #FFEE5D;
+  border: solid 2px #FF7B00;
+  padding: 10px;
+  font-size: 18px;
+  font-family: sans-serif;
+  font-style: italic;
+}
+
+.biography2{
+  margin-top: 40px;
+  text-align: center;
+  width: 960px;
+  margin-left: 100px;
+  background-color: silver;
+}
+
+strong {
+  font-weight: bold;
+  color: #F21600;
+  font-size: 20px;
+}
+
+.buttonH
+{
+  margin-top: 20px;
+  margin-left: 75%;
+}
+
+.buttonP
+{
+  margin-top: 20px;
+  margin-left: 75%;
+}
+
+.changeH
+{
+ background-color: #000;
+
+}
+.changeP
+{
+ background-color: #000;
+}
+
+.changeH:hover, .changeP:hover
+{
+  color: #999999;
+}
