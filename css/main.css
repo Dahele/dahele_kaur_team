@@ -53,7 +53,12 @@ h1 {
   text-align: center;
   width: 960px;
   margin-left: 100px;
-  background-color: silver;
+  background-color: #FFEE5D;
+  border: solid 2px #FF7B00;
+  padding: 10px;
+  font-size: 18px;
+  font-family: sans-serif;
+  font-style: italic;
 }
 
 strong {
